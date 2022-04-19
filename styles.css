@@ -1,0 +1,54 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+body {
+    background-color: rgb(222, 246, 254);
+}
+  
+.page-header { background-color: rgba(104, 104, 219, 0.8);
+    margin: 0px auto;
+    max-width: 500px;
+}
+
+.page-header > h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(119, 175, 228);
+    margin: 0px auto;
+    max-width: 800px;
+}
+
+td, tr {
+    border: 2px solid rgb(86, 90, 211);
+    text-align: center;
+    padding: 2px 4px;
+    background-color: rgb(207, 207, 239);
+    
+}
+   
+th {
+    border: 2px solid rgb(86, 90, 211);
+    text-align: center;
+    background-color: rgb(158, 158, 243);
+}
+
+  table {
+    text-align: center;
+    margin: 30px auto;
+  }
+
+  .container {
+    max-width: 940px;
+    margin: 0 auto;
+    height: 800px;
+  }
+  footer {
+   
+  }
